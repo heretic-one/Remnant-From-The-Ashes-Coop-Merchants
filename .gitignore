@@ -1,0 +1,5 @@
+build/
+deps/
+tools/bin/
+tools/uasset-tool/bin/
+tools/uasset-tool/obj/
