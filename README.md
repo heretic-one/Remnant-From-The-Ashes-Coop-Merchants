@@ -27,6 +27,10 @@ Delete `Remnant\Content\Paks\~mods\CoopMerchants_P.pak`.
 - Conflicts with other mods that replace the same vendor event trees (see `trees.txt`).
 - The conversation ends when the menu opens. Talk to the vendor again for other dialogue.
 
+## Notes
+
+- Claude code was used in the making of this mod.
+
 ## Build (Linux only)
 
 Players don't need to build: use the release zip.
